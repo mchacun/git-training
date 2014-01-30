@@ -1,6 +1,8 @@
-L'agence de voyages Resanet a décidé de lancer le projet "resaroute", ce projet à pour but de créer
+L'agence de voyages Resanet a dÃ©cidÃ© de lancer le projet "resaroute", ce projet Ã  pour but de crÃ©er
 une application unique d'aspiration d'informations sur les sites de transports publics tel celui de la
 SNCF.
-Les premières idées du projet sont présentes et vont évoluer au fur et à mesure. Le projet va aussi
-devoir débuter sous peu. Un système de versioning va devenir plus qu'important.
-L'objectif principal est de mettre en place et gérer les premiers événements de ce dépôt git.
+Les premiÃ¨res idÃ©es du projet sont prÃ©sentes et vont Ã©voluer au fur et Ã  mesure. Le projet va aussi
+devoir dÃ©buter sous peu. Un systÃ¨me de versioning va devenir plus qu'important.
+L'objectif principal est de mettre en place et gÃ©rer les premiers Ã©vÃ©nements de ce dÃ©pÃ´t git.
+
+Les tÃ¢ches techniques Ã  effectuer sont dans le fichier TODO.txt
